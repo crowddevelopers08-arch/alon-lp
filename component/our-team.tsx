@@ -249,8 +249,6 @@ const HairServicesComponents = () => {
                 />
               </div>
             </div>
-
-            {/* Services Grid - 2 columns on tablet, 1 on mobile */}
             <div className="w-full grid grid-cols-1 sm:grid-cols-2 gap-6 sm:gap-8">
               {/* Hair Loss Evaluation */}
               <div className="flex items-start gap-3">
